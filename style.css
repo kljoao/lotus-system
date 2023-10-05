@@ -1,0 +1,30 @@
+/* FONTS IMPORTS */
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap');
+/* FONTS IMPORTS */
+
+/* CSS IMPORT */
+@import url(assets/styles/footer.css);
+@import url(assets/styles/choose.css);
+@import url(assets/styles/fonts.css);
+@import url(assets/styles/painel.css);
+/* CSS IMPORT */
+
+
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
